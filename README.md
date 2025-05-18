@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Image of https://github.com/Faishal003/my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Faishal003/my-views-counter)
 
 <!--
 **Faishal003/faishal003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
